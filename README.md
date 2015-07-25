@@ -1,4 +1,4 @@
 # A-Project
 test
-*first
-*second
+* first
+* second
